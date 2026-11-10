@@ -1,5 +1,4 @@
-<img width="3500" height="2000" alt="1000894281" src="https://github.com/user-attachments/assets/4bf8c90f-6ed1-4a13-ab6b-c3a8954fc092" />
-
+<img width="2400" height="1080" alt="1000894280" src="https://github.com/user-attachments/assets/0e54e1d5-d886-4a8f-b2bf-5165ae1cdeba" />
 
 # WOlfhound3D
 
